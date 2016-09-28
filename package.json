@@ -1,6 +1,6 @@
 {
   "name": "webdriver-dfn-error-code",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "webdriver-dfn-error-code",
   "keywords": ["webdriver-dfn-error-code"],
   "main": "index.js",
