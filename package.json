@@ -1,22 +1,24 @@
 {
   "name": "webdriver-dfn-error-code",
   "version": "1.0.4",
-  "description": "webdriver-dfn-error-code",
-  "keywords": ["webdriver-dfn-error-code"],
+  "description": "dfn error code for webdriver",
+  "keywords": [
+    "webdriver",
+    "macaca"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/xudafeng/webdriver-dfn-error-code.git"
+    "url": "git://github.com/macacajs/webdriver-dfn-error-code.git"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "co-mocha": "*",
-    "mocha": "*",
-    "should": "*",
+    "istanbul": "^0.4.5",
     "jshint": "*",
-    "istanbul": "*",
-    "pre-commit": "1.1.1"
+    "mocha": "*",
+    "pre-commit": "*",
+    "should": "*"
   },
   "scripts": {
     "test": "make test",
@@ -25,9 +27,6 @@
   "pre-commit": [
     "jshint"
   ],
-  "homepage": "https://github.com/xudafeng/webdriver-dfn-error-code",
-  "author": "xudafeng",
-  "email": "xudafeng@126.com",
-  "blog": "http://xdf.me",
+  "homepage": "https://github.com/macacajs/webdriver-dfn-error-code",
   "license": "MIT"
 }
