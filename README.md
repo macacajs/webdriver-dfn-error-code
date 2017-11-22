@@ -21,7 +21,7 @@
 
 ## Installment
 
-``` bash
+```bash
 $ npm i webdriver-dfn-error-code --save
 ```
 
